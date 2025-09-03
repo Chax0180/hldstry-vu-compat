@@ -1,0 +1,12 @@
+name: hldstry-vu-compat
+description:'''
+Resprites some units in Helldustry that use vanilla unit sprites to match Visual Units' art style.
+
+Sprites are simply recolors. I didn't make them myself.
+'''
+author: Chax0180, sprites by Bloody-Ocean (Mesyachnuy/Месячный)
+minGameVersion: 146
+version: ඞ
+displayName: Helldustry-Visual Units Compat
+subtitle: "Original sprites by Bloody-Ocean"
+repo: "Chax0180/hldstry-vu-compat"
