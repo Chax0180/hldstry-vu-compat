@@ -12,5 +12,5 @@ subtitle: "Original sprites by Bloody-Ocean"
 repo: "Chax0180/hldstry-vu-compat"
 dependencies: [
   vu
-  2nd-galactic-war-mindustry
+  hldstry
 ]
